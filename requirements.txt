@@ -1,0 +1,6 @@
+flask
+flask-restful
+Flask-PyMongo
+pymongo
+flask_httpauth
+pyjwt
